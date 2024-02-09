@@ -1,8 +1,7 @@
 <h1 align="center" style="color:blue;">Hi 👋, I'm Sastik Kumar Das</h1>
    <h3 align="center" style="color:blue;">A passionate Software developer</h3>
-<div style="display: flex; justify-content: center;">
-    <img width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptMnk5bmRncDN3aXZ3d3I2emg0cWZ1b2NmY28xZml3ajRvbXF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" />
-</div>
+   <img align="center" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptMnk5bmRncDN3aXZ3d3I2emg0cWZ1b2NmY28xZml3ajRvbXF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sastik&label=Profile%20views&color=0e75b6&style=flat" alt="Sastik" /> </p>
@@ -21,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sastik-kumar-das-2b1633213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sastik-kumar-das-2b1633213/" height="30" width="40" /></a>
+   
    <a href="https://sastik-kumar-das.netlify.app/" target="blank">
     <img align="center" src="https://lh3.googleusercontent.com/vdKbcWCGwxtvvoZG5LK-rQcix_6mXl7Z2zzVil3ggiZ6hUETgtSVdbw0hrNAbRoCTCuSt_yn4EJrBS5XzILlYBxGIhMuikJ9nVt1HVA5nI76zA5ludsdTQF9t-ANf4lZPV7Wli9JzTrA8fj1wa5YAgcza7EK1Y8uqcj92Hjm1jaJJ10OJAkdaQg6oB7lKQ" alt="Your Website" height="30" width="30" />
   </a>
