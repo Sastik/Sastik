@@ -1,6 +1,6 @@
 <h1 align="center" style="color:blue;">Hi 👋, I'm Sastik Kumar Das</h1>
 <h3 align="center" style="color:blue;">A passionate Software developer</h3>
-<img align="center" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptMnk5bmRncDN3aXZ3d3I2emg0cWZ1b2NmY28xZml3ajRvbXF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
+<img align="center" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptMnk5bmRncDN3aXZ3d3I2emg0cWZ1b2NmY28xZml3ajRvbXF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sastik&label=Profile%20views&color=0e75b6&style=flat" alt="Sastik" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sastik" alt="Sastik" /></a> </p>
@@ -22,7 +22,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@
   </a>
 </p>
 <div style="display: flex;  margin-bottom: 20px; flex-direction: column; align-items: center; justify-content: center;">
-    <h3 align="left">Using Language analysis</h3>
+    <h3 align="center">Using Language analysis</h3>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sastik&show_icons=true&locale=en&layout=compact" alt="Sastik" /></p>
 
    <h3 align="left">Github states analysis </h3>
