@@ -21,7 +21,7 @@
   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages Uses:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   
@@ -64,8 +64,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   </a>
 
@@ -92,7 +97,10 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellijidea" width="40" height="40"/>
   </a>
+  
 </p>
+
+
 <div style="display: flex;  margin-bottom: 20px; flex-direction: column; align-items: center; justify-content: center;">
     <h3 align="center">Using Language analysis</h3>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sastik&show_icons=true&locale=en&layout=compact" alt="Sastik" /></p>
