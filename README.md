@@ -1,6 +1,6 @@
 <h1 align="center" style="color:blue;">Hi 👋, I'm Sastik Kumar Das</h1>
 <h3 align="center" style="color:blue;">A passionate Software developer </h3>
-<img alilgn ="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img alilgn ="right" width="400" src="[https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ptMnk5bmRncDN3aXZ3d3I2emg0cWZ1b2NmY28xZml3ajRvbXF2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akku27-cse&label=Profile%20views&color=0e75b6&style=flat" alt="akku27-cse" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akku27-cse" alt="akku27-cse" /></a> </p>
