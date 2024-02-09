@@ -93,9 +93,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellijidea" width="40" height="40"/>
   </a>
 </p>
+<div style="display: flex;  margin-bottom: 20px; flex-direction: column; align-items: center; justify-content: center;">
+    <h3 align="left">Using Language analysis</h3>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sastik&show_icons=true&locale=en&layout=compact" alt="Sastik" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sastik&show_icons=true&locale=en&layout=compact" alt="Sastik" /></p>
+    <h3 align="left">Github states analysis</h3>
+    <p><img src="https://github-readme-stats.vercel.app/api?username=Sastik&show_icons=true&locale=en" alt="Sastik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sastik&show_icons=true&locale=en" alt="Sastik" /></p>
+    <h3 align="left">Overall work analysis</h3>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sastik&" alt="Sastik" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sastik&" alt="Sastik" /></p>
