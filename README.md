@@ -97,10 +97,10 @@
     <h3 align="left">Using Language analysis</h3>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sastik&show_icons=true&locale=en&layout=compact" alt="Sastik" /></p>
 
-    <h3 align="left">Github states analysis</h3>
-    <p><img src="https://github-readme-stats.vercel.app/api?username=Sastik&show_icons=true&locale=en" alt="Sastik" /></p>
+   <h3 align="left">Github states analysis </h3>
+   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sastik&show_icons=true&locale=en" alt="Sastik" /></p>
 
-    <h3 align="left">Overall work analysis</h3>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sastik&" alt="Sastik" /></p>
+   <h3 align="left">Overall work analysis </h3>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sastik&" alt="Sastik" /></p>
 </div>
 
