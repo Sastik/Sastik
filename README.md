@@ -1,17 +1,17 @@
 <h1 align="center" style="color:blue;">Hi 👋, I'm Sastik Kumar Das</h1>
-<h3 align="center" style="color:blue;">A passionate MERN developer from India</h3>
+<h3 align="center" style="color:blue;">A passionate Software developer </h3>
 <img alilgn ="right" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akku27-cse&label=Profile%20views&color=0e75b6&style=flat" alt="akku27-cse" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akku27-cse" alt="akku27-cse" /></a> </p>
 
-- 🌱 I’m currently learning *React,Js,Mongodb*
+- 🌱 I’m currently learning *Full stack Developing*
 
-- 👨‍💻 All of my projects are available at [https://santuportfolionew.web.app/](https://santuportfolionew.web.app/)
+- 👨‍💻 All of my projects are available at [https://sastik-kumar-das.netlify.app/](https://sastik-kumar-das.netlify.app/)
 
 - 💬 Ask me about *MERN*
 
-- 📫 How to reach me *janaa7223@gmail.com*
+- 📫 How to reach me *cse20055@cemk.ac.in*
 
 - ⚡ Fun fact *I am Funny.*
 
