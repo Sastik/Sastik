@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *Full stack Development*
 
-- 👨‍💻 All of my projects are available at [https://sastik-kumar-das.netlify.app/](https://sastik-kumar-das.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sastik-kumar-das.netlify.app/](https://sastik-kumar-das.vercel.app/)
 
 - 💬 Ask me about *MERN*
 
