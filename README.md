@@ -119,7 +119,7 @@ FastAPI • React • PostgreSQL
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sastik/Sastik/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Sastik/Sastik/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -132,11 +132,11 @@ FastAPI • React • PostgreSQL
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/sastik-kumar-das">
+<a href="https://www.linkedin.com/in/sastik-kumar-das-2b1633213">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://sastik-kumar-das.vercel.app">
+<a href="https://sastik-kumar-das.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
 </a>
 
